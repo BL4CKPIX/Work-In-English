@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+section img{
+    width: 35vw;
+    height: 60vh;
+    padding: 1vw;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2vw;
+}
